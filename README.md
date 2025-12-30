@@ -6,7 +6,7 @@ Kelas IF 23 B
 
 ---
 
-## 📝 Deskripsi
+## Deskripsi
 IT-Terms Translator adalah aplikasi asisten berbasis kecerdasan buatan (AI) yang dirancang untuk membantu mahasiswa Informatika memahami istilah-istilah teknologi dan pemrograman yang sering dianggap sulit.
 
 Aplikasi ini menggunakan **Google Gemini AI (gemini-3-flash-preview)** untuk memberikan penjelasan istilah IT dengan bahasa Indonesia yang sederhana, singkat, dan mudah dipahami.
@@ -15,7 +15,7 @@ Aplikasi dibuat sederhana sesuai ketentuan tugas dan berfokus pada pemanfaatan A
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 - **AI Chatbot**
   Pengguna dapat bertanya tentang istilah atau konsep Informatika (contoh: API, Flutter, OOP, Framework).
 
@@ -30,7 +30,7 @@ Aplikasi dibuat sederhana sesuai ketentuan tugas dan berfokus pada pemanfaatan A
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack (Teknologi yang Digunakan)
 - **Framework**: Flutter  
 - **AI Model**: Google Gemini (`gemini-3-flash-preview`)  
 - **State Management**: Riverpod  
@@ -38,7 +38,7 @@ Aplikasi dibuat sederhana sesuai ketentuan tugas dan berfokus pada pemanfaatan A
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 1. Clone repository ini ke perangkat lokal.
 2. Pastikan Flutter SDK sudah terpasang.
 3. Dapatkan API Key dari Google AI Studio:  
